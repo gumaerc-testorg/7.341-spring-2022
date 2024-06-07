@@ -39,8 +39,8 @@ We often recommend review articles based on the week’s topic as they are easie
 
 ### Prerequisites
 
-- [*7.06 Cell Biology*](https://ocw.mit.edu/courses/7-06-cell-biology-spring-2007/)
-- [*7.28 Molecular Biology*](https://ocw.mit.edu/courses/7-28-molecular-biology-spring-2005)
+- [*7.06x Cell Biology*](courses/res-7-007-7-06x-cell-biology/)
+- [*7.28x Molecular Biology*](/courses/res-7-008-7-28x-molecular-biology/)
 
 ### Requirements Satisfied
 
