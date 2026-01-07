@@ -134,7 +134,7 @@ Pushing the boundaries differently than discussed in Session #11, researchers ar
 
 Following this, we will be having a discussion on directed evolution with Prof. Ahmed Badran from Scripps Research (San Diego), via Zoom. Ahmed was a graduate student in the Liu lab making the assigned paper even more topical. Ahmed will give a presentation on his career path in academia and where the field of directed evolution is headed. 
 
-You can out more about his research at the lab website: {{% resource_link "702f9fa5-7a60-4c2e-89f0-fe9f0dd1a21c" "https://badranlab.com/" %}}
+You can out more about his research at the lab website: [https://badranlab.com/](https://badranlab.com/)
 
 (Please note: the guest discussion with Prof. Badran applies only to the on-campus course taught at MIT.)
 
